@@ -1,6 +1,6 @@
 {
     "name": "jeffreyvanrossum/simple-slack-error-channel",
-    "description": "Handy wrapper to make creating WordPress meta boxes a breeze.",
+    "description": "Send errors to a Slack channel.",
     "license": "MIT",
     "authors": [
         {
