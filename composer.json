@@ -1,0 +1,20 @@
+{
+    "name": "jeffreyvanrossum/simple-slack-error-channel",
+    "description": "Handy wrapper to make creating WordPress meta boxes a breeze.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeffrey van Rossum",
+            "email": "jeffrey@vanrossum.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jeffreyvr\\SimpleSlackErrorChannel\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "maknz/slack": "^1.7"
+    }
+}
