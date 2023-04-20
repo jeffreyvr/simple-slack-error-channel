@@ -2,6 +2,14 @@
 
 Simply forward your PHP errors to a Slack channel.
 
+## Install
+
+```
+composer require jeffreyvanrossum/simple-slack-error-channel
+```
+
+## Setup
+
 ```php
 // Make instance
 $slackErrorHandler = new Handler('https://hooks.slack.com/services/your_webhook');
